@@ -1,0 +1,44 @@
+body {
+  background-color: #f5eedc;
+  font-family: Century Gothic;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 3%;
+  height: 0px;
+  border-width: 5px;
+  border-color: #8e806a;
+}
+
+h1 {
+  color: #87431d;
+  text-decoration: underline;
+  font-family: Geneva;
+}
+
+h3 {
+  color: #87431d;
+  font-family: Geneva;
+}
+
+a {
+  color: #753422;
+}
+
+p {
+  font-family: Century Gothic;
+}
+
+img {
+  filter: drop-shadow(0 0 0.5rem #87431d);
+}
+
+td {
+  padding-right: 15px;
+}
+
+a:hover {
+  background-color: gold;
+}
